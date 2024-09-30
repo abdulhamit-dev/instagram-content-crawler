@@ -1,0 +1,4 @@
+flask
+pydantic
+opencv-python-headless
+boto3
