@@ -18,11 +18,11 @@ This project is a tool developed to collect content from Instagram and find matc
 
 1. Clone this project:
     ```bash
-    git clone https://github.com/user/insta-content-crawl.git
+    git clone https://github.com/user/instagram-content-crawler.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd insta-content-crawl
+    cd instagram-content-crawler
     ```
 3. Install the required dependencies:
     ```bash
